@@ -236,3 +236,8 @@ This artifact demonstrates a constrained approach to operational signal interpre
 - explicit governance constraints  
 
 It is intended as a work sample illustrating how systems can support decision-making without overextending into prediction or automation.
+
+## Example Output
+
+![Operational State Classifier](operational-state-classifier.png)
+
