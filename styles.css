@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 60px auto;
+  background: white;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.output {
+  margin-top: 20px;
+}
+
+#state {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.boundary {
+  font-size: 12px;
+  color: #666;
+}
