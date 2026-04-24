@@ -1,4 +1,5 @@
 # Deterministic Operational State Classifier
+© 2026 Tripp Parkerr. All rights reserved
 
 ## Overview
 
